@@ -1,2 +1,3 @@
 # Grandmaster
-A very powerful nerual network based chess engine.
+My first attempt at making a chess engine!
+
